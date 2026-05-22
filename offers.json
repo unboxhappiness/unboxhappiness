@@ -1,14 +1,58 @@
 [
   {
-    "image": "offers/Website.png",
-    "title": "Summer Sale Offer"
+    "image": "offers/Customized keychains.png",
+    "title": "Customized keychains"
   },
   {
-    "image": "offers/Digital_Menu.png",
-    "title": "Keychain Offer"
+    "image": "offers/Customized planter.png",
+    "title": "Customized planter"
   },
   {
-    "image": "offers/Social_Media.png",
-    "title": "Branding Deal"
+    "image": "offers/Customized stickers.png",
+    "title": "Customized stickers"
+  },
+  {
+    "image": "offers/Customized thank you cards.png",
+    "title": "Customized thank you cards"
+  },
+  {
+    "image": "offers/customized T-shirt.png",
+    "title": "Customized T-shirt"
+  },
+  {
+    "image": "offers/customized visiting cards.png",
+    "title": "Customized visiting cards"
+  },
+  {
+    "image": "offers/Digital business card.png",
+    "title": "Digital business card"
+  },
+  {
+    "image": "offers/Digital menu-catalogue",
+    "title": "Digital menu-catalogue"
+  },
+  {
+    "image": "offers/Double-sided customized keychains.png",
+    "title": "Double-sided customized keychains"
+  },
+  {
+    "image": "offers/Google Business setup.png",
+    "title": "Google Business setup"
+  },
+  {
+    "image": "offers/logo-stickers design.png",
+    "title": "Logo-stickers design"
+  },
+  {
+    "image": "offers/Professional business-website.png",
+    "title": "Professional business-website"
+  },
+  {
+    "image": "offers/Social media setup.png",
+    "title": "Social media setup"
+  },
+  {
+    "image": "offers/WhatsApp Business setup + automation.png",
+    "title": "WhatsApp Business setup + automation"
   }
 ]
